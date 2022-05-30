@@ -7,7 +7,7 @@ Objectivo de la práctica:
 En esta práctica he aprendido a usar el Plataform.io, entender el setup para incializar el LED y el bucle: void loop().
 
 Comentario del código: 
-
+```
 #include <Arduino.h>
 
 //conecta el led 13 al pin 13
@@ -24,7 +24,7 @@ void loop() {
   delay(1000);               // y espera otros 1000ms
 }
 //de esta manera lo que se provoca es un bucle infinito de encender y apagar LEDs, algo así como un parpadeo.
-
+```
 Diagrama de flujos
 ```mermaid
 flowchart TD

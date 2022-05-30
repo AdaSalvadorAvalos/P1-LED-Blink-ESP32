@@ -1,20 +1,29 @@
+MATERIALES
+· ESP32
+· LED
+· resistencia de 470ohms
+
+Objectivo de la práctica:
+En esta práctica he aprendido a usar el Plataform.io, entender el setup para incializar el LED y el bucle: void loop().
+
+Comentario del código: 
+
 #include <Arduino.h>
 
-
-// Pin 13 has an LED connected on most Arduino boards.
-// give it a name:
+//conecta el led 13 al pin 13
 int led = 13;
 void setup() {
-  // initialize the digital pin as an output.
+  // inicializa el pin como OUTPUT
   pinMode(led, OUTPUT); 
 }
 
 void loop() {
- digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(500);               // wait for a 500ms
-  digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
-  delay(1000);               // wait for a 500ms
+ digitalWrite(led, HIGH);   // enciende el LED: HIGH, se refiere al voltaje
+  delay(500);               // y espera 500ms
+  digitalWrite(led, LOW);    // apaga el LED : off, voltaje en LOW
+  delay(1000);               // y espera otros 1000ms
 }
+//de esta manera lo que se provoca es un bucle infinito de encender y apagar LEDs, algo así como un parpadeo.
 
 Diagrama de flujos
 ```mermaid

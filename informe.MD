@@ -1,12 +1,14 @@
-MATERIALES
-· ESP32
-· LED
-· resistencia de 470ohms
+# Práctica 1
 
-Objectivo de la práctica:
-En esta práctica he aprendido a usar el Plataform.io, entender el setup para incializar el LED y el bucle: void loop().
+## MATERIALES
+- ESP32
+- LED
+- resistencia de 470ohms
 
-Comentario del código: 
+## Presentación:
+En esta práctica usamos el Plataform.io, he entendido el setup para incializar el LED y el bucle: void loop() que provoca que el LED se encienda y apague.
+
+## Explicación del código: 
 ```
 #include <Arduino.h>
 

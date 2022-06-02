@@ -8,7 +8,7 @@
 ## Presentación:
 En esta práctica usamos el Plataform.io, he entendido el setup para incializar el LED y el bucle: void loop() que provoca que el LED se encienda y apague.
 
-## Explicación del código: 
+## Explicación del código (con comentarios que explican el funcionamiento línea a línea): 
 ```
 #include <Arduino.h>
 

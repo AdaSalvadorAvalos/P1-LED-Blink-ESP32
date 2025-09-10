@@ -1,4 +1,4 @@
-# Practice 1: LED Blink with ESP32
+# Practice 1: LED Blink with ESP32 (English Version)
 ## Materials
 - ESP32
 - LED
@@ -80,7 +80,7 @@ id5-->|Wait 500ms|id7;
     - The LED should blink: **ON for 500ms, OFF for 1000ms** in an infinite loop
 
 
-# Práctica 1
+# Práctica 1: Parpadeo de LED con ESP32 (Versión en Español)
 
 ## MATERIALES
 - ESP32

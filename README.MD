@@ -82,13 +82,15 @@ id5-->|Wait 500ms|id7;
 
 # Práctica 1: Parpadeo de LED con ESP32 (Versión en Español)
 
-## MATERIALES
+## Materiales
 - ESP32
 - LED
 - resistencia de 470ohms
 
-## Presentación:
-En esta práctica usamos el Plataform.io, he entendido el setup para incializar el LED y el bucle: void loop() que provoca que el LED se encienda y apague.
+## Introducción
+
+Esta práctica utiliza PlatformIO para programar un ESP32. El objetivo es comprender la función `setup()`, que inicializa el LED, y la función `loop()`, que crea un ciclo infinito que enciende y apaga el LED, produciendo un efecto de parpadeo.
+
 
 ## Explicación del código (con comentarios que explican el funcionamiento línea a línea): 
 ```cpp

@@ -160,3 +160,8 @@ id5-->|Esperar 500ms|id7;
 
 6. **Observar el Resultado**  
    - El LED debería parpadear: **ENCENDIDO por 500ms, APAGADO por 1000ms** en un bucle infinito  
+
+
+
+### Recursos
+- Video explicativo en español sobre las conexiones del LED y la resistencia: [Ver video](assets/practica1_video.mp4)

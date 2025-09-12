@@ -79,6 +79,13 @@ id5-->|Wait 500ms|id7;
 6. **Observe the Result**
     - The LED should blink: **ON for 500ms, OFF for 1000ms** in an infinite loop
 
+### Resources
+- **Video Demonstration in Spanish:** [Watch video](assets/practica1_video.mp4)  
+- **ESP32 Documentation:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
+- **Arduino digitalWrite Reference:** [Arduino digitalWrite](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/)  
+- **Arduino pinMode Reference:** [Arduino pinMode](https://docs.arduino.cc/language-reference/en/functions/digital-io/pinMode/)  
+- **ESP32 GPIO Guide:** [ESP32 GPIO Reference](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)  
+
 
 # Práctica 1: Parpadeo de LED con ESP32 (Versión en Español)
 
@@ -163,7 +170,9 @@ id5-->|Esperar 500ms|id7;
 6. **Observar el Resultado**  
    - El LED debería parpadear: **ENCENDIDO por 500ms, APAGADO por 1000ms** en un bucle infinito  
 
-
-
 ### Recursos
-- Video explicativo en español sobre las conexiones del LED y la resistencia: [Ver video](assets/practica1_video.mp4)
+- **Video demostrativo en español:** [Ver video](assets/practica1_video.mp4) 
+- **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
+- **Referencia de digitalWrite en Arduino:** [Arduino digitalWrite](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/)  
+- **Referencia de pinMode en Arduino:** [Arduino pinMode](https://docs.arduino.cc/language-reference/en/functions/digital-io/pinMode/)  
+- **Guía de pines del ESP32:** [ESP32 GPIO Reference](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)  

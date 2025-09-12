@@ -8,7 +8,7 @@
 
 This practice uses PlatformIO to program an ESP32. The objective is to understand the `setup()` function, which initializes the LED, and the `loop()` function, which creates an infinite cycle that turns the LED on and off, producing a blinking effect.
 
-## Code Explanation
+## Code Explanation (with line-by-line comments):
 ```cpp
 #include <Arduino.h>
 
@@ -99,7 +99,7 @@ id5-->|Wait 500ms|id7;
 Esta práctica utiliza PlatformIO para programar un ESP32. El objetivo es comprender la función `setup()`, que inicializa el LED, y la función `loop()`, que crea un ciclo infinito que enciende y apaga el LED, produciendo un efecto de parpadeo.
 
 
-## Explicación del código (con comentarios que explican el funcionamiento línea a línea): 
+## Explicación del código (comentarios línea por línea): 
 ```cpp
 #include <Arduino.h>
 

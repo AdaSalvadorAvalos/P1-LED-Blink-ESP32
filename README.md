@@ -96,7 +96,7 @@ id5-->|Wait 500ms|id7;
 
 ## Introducción
 
-Esta práctica para el curso de Processadores Digitales utiliza PlatformIO para programar un ESP32. El objetivo es comprender la función `setup()`, que inicializa el LED, y la función `loop()`, que crea un ciclo infinito que enciende y apaga el LED, produciendo un efecto de parpadeo.
+Esta práctica para el curso de Procesadores Digitales utiliza PlatformIO para programar un ESP32. El objetivo es comprender la función `setup()`, que inicializa el LED, y la función `loop()`, que crea un ciclo infinito que enciende y apaga el LED, produciendo un efecto de parpadeo.
 
 
 ## Explicación del código (comentarios línea por línea): 
